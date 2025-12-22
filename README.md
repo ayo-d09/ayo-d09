@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ayomide 👋
 
-<!--
-**ayo-d09/ayo-d09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring **DevOps / Cloud Engineer** focused on building strong fundamentals and real-world skills through hands-on practice.
 
-Here are some ideas to get you started:
+## What I’m working on
+- Linux system administration
+- Bash scripting & automation
+- Networking fundamentals (DNS, TCP/IP, HTTP)
+- Git & GitHub workflows
+- DevOps fundamentals (CI/CD, monitoring basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How I learn
+- Build projects and scripts
+- Break things, debug, and document fixes
+- Practice real DevOps scenarios
+
+## Current focus
+- Writing production-style Bash scripts
+- Understanding how systems communicate over the network
+- Preparing for DevOps / Cloud roles
+
+## Goals
+- Become a solid, job-ready DevOps engineer
+- Contribute to open-source projects
+- Continuously improve through hands-on work
+
+
+
