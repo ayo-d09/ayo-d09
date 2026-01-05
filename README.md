@@ -2,7 +2,7 @@
 
 I’m an aspiring DevOps / Cloud Engineer focused on building strong fundamentals and real-world skills through hands-on practice.
 
- What I’m working on
+  What I’m working on
 - Linux system administration
 - Bash scripting & automation
 - Networking fundamentals (DNS, TCP/IP, HTTP)
