@@ -23,6 +23,3 @@ I’m an aspiring DevOps / Cloud Engineer focused on building strong fundamental
 - Become a solid, job-ready DevOps engineer
 - Contribute to open-source projects
 - Continuously improve through hands-on work
-
-
-
