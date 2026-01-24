@@ -1,11 +1,11 @@
-# Hi, I'm Ayomide 👋
+Hi, I'm Ayomide 👋
 
 I’m an aspiring **DevOps / Cloud Engineer** building strong fundamentals through hands-on, real-world practice.
 
 I focus on understanding how systems work end-to-end by building, breaking, fixing, and documenting them — the same way issues show up in production.
 
 
-## 🛠 What I’m Practicing
+What I’m Practicing
 
 - Linux system administration  
 - Bash scripting and automation  
@@ -14,7 +14,7 @@ I focus on understanding how systems work end-to-end by building, breaking, fixi
 - Core DevOps concepts (CI/CD, monitoring basics)
 
 
-## 🧩 How I Learn
+How I Learn
 
 - Build small but practical projects  
 - Intentionally break things and debug failures  
@@ -22,21 +22,21 @@ I focus on understanding how systems work end-to-end by building, breaking, fixi
 - Recreate common DevOps scenarios
 
 
-## 🎯 Current Focus
+Current Focus
 
 - Writing **reliable, production-style Bash scripts**
 - Understanding **how services communicate over networks**
 - Preparing for **entry-level DevOps / Cloud roles**
 
 
-## 🚀 Goals
+Goals
 
 - Become a job-ready DevOps Engineer  
 - Contribute to open-source projects  
 - Keep improving through consistent hands-on work
 
 
-## 📁 About This Repository
+About This Repository
 
 This repository is a collection of:
 - Automation and system administration scripts  
@@ -47,7 +47,7 @@ This repository is a collection of:
 Each project includes documentation explaining **what it does**, **why it exists**, and **what I learned**.
 
 
-## 📫 Connect
+Connect
 
 - GitHub: [@ayo-d09](https://github.com/ayo-d09)
 
