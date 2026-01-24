@@ -4,7 +4,6 @@ I’m an aspiring **DevOps / Cloud Engineer** building strong fundamentals throu
 
 I focus on understanding how systems work end-to-end by building, breaking, fixing, and documenting them — the same way issues show up in production.
 
----
 
 ## 🛠 What I’m Practicing
 
@@ -14,7 +13,6 @@ I focus on understanding how systems work end-to-end by building, breaking, fixi
 - Git and GitHub workflows  
 - Core DevOps concepts (CI/CD, monitoring basics)
 
----
 
 ## 🧩 How I Learn
 
@@ -23,7 +21,6 @@ I focus on understanding how systems work end-to-end by building, breaking, fixi
 - Document fixes and lessons learned  
 - Recreate common DevOps scenarios
 
----
 
 ## 🎯 Current Focus
 
@@ -31,7 +28,6 @@ I focus on understanding how systems work end-to-end by building, breaking, fixi
 - Understanding **how services communicate over networks**
 - Preparing for **entry-level DevOps / Cloud roles**
 
----
 
 ## 🚀 Goals
 
@@ -39,7 +35,6 @@ I focus on understanding how systems work end-to-end by building, breaking, fixi
 - Contribute to open-source projects  
 - Keep improving through consistent hands-on work
 
----
 
 ## 📁 About This Repository
 
@@ -51,7 +46,6 @@ This repository is a collection of:
 
 Each project includes documentation explaining **what it does**, **why it exists**, and **what I learned**.
 
----
 
 ## 📫 Connect
 
