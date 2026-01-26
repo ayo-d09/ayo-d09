@@ -50,6 +50,3 @@ Each project includes documentation explaining **what it does**, **why it exists
 Connect
 
 - GitHub: [@ayo-d09](https://github.com/ayo-d09)
-
-
-
