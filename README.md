@@ -1,4 +1,3 @@
-
 Hi, I'm Ayomide 👋
 
 I’m an aspiring **DevOps / Cloud Engineer** building strong fundamentals through hands-on, real-world practice.
