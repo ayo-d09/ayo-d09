@@ -50,3 +50,5 @@ Each project includes documentation explaining **what it does**, **why it exists
 Connect
 
 - GitHub: [@ayo-d09](https://github.com/ayo-d09)
+- Linkedin: https://www.linkedin.com/in/ayomide-obadina-b2b7893b9
+- Email: aobadina6@gmail.com
