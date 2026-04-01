@@ -1,54 +1,34 @@
-Hi, I'm Ayomide 
+Hi, I'm Ayomide
+I’m a DevOps / Cloud Engineer with hands-on experience building and managing reliable systems in cloud environments.
+I specialize in designing, automating, and troubleshooting end-to-end infrastructure - from Linux systems and networking to deployment pipelines, like they work in production
 
-I’m an aspiring **DevOps / Cloud Engineer** building strong fundamentals through hands-on, real-world practice.
+What I Work With:
+Linux system administration
+Bash scripting and automation
+Networking fundamentals (DNS, TCP/IP, HTTP)
+Git and GitHub workflows
+Core DevOps practices (CI/CD, monitoring, infrastructure as code)
 
-I focus on understanding how systems work end-to-end by building, breaking, fixing, and documenting them — the same way issues show up in production.
+Current Focus:
+Getting comfortable writing Bash scripts for automation (still improving structure, error handling, and best practices)
+Learning how backend services, APIs, and networking actually work together in real-world systems
+Building hands-on cloud projects on AWS to understand deployment, Docker, and basic DevOps workflows
 
-
-What I’m Practicing
-
-- Linux system administration  
-- Bash scripting and automation  
-- Networking fundamentals (DNS, TCP/IP, HTTP)  
-- Git and GitHub workflows  
-- Core DevOps concepts (CI/CD, monitoring basics)
-
-
-How I Learn
-
-- Build small but practical projects  
-- Intentionally break things and debug failures  
-- Document fixes and lessons learned  
-- Recreate common DevOps scenarios
+Goals:
+Secure an entry-level DevOps / Cloud Engineer role
+Contribute to open-source projects
+Deliver high-quality, production-ready infrastructure and automation
 
 
-Current Focus
+My repositories contains:
+Automation and system administration scripts
+Linux and networking configurations
+DevOps projects and infrastructure experiments
+Mini-projects modeled after real-world production tasks
 
-- Writing **reliable, production-style Bash scripts**
-- Understanding **how services communicate over networks**
-- Preparing for **entry-level DevOps / Cloud roles**
+Each project includes clear documentation covering its purpose, architecture, and implementation details.
 
-
-Goals
-
-- Become a job-ready DevOps Engineer  
-- Contribute to open-source projects  
-- Keep improving through consistent hands-on work
-
-
-About This Repository
-
-This repository is a collection of:
-- Automation and system administration scripts  
-- Linux and networking practice exercises  
-- DevOps experiments and learning notes  
-- Mini-projects inspired by real production tasks  
-
-Each project includes documentation explaining **what it does**, **why it exists**, and **what I learned**.
-
-
-Connect
-
+Connect:
 - GitHub: [@ayo-d09](https://github.com/ayo-d09)
 - Linkedin: https://www.linkedin.com/in/ayomide-obadina-b2b7893b9
 - Email: aobadina6@gmail.com
