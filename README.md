@@ -33,5 +33,5 @@ Each project includes clear documentation covering its purpose, architecture, an
 
 Connect:
 - GitHub: [@ayo-d09](https://github.com/ayo-d09)
-- Linkedin: https://www.linkedin.com/in/ayomide-obadina-b2b7893b9
+- Linkedin: https://www.linkedin.com/in/ayomide-obadina-441121402?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 - Email: aobadina6@gmail.com
