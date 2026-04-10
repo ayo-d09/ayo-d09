@@ -5,11 +5,12 @@ I specialize in designing, automating, and troubleshooting end-to-end infrastruc
 
 What I Work With:
 
-Linux system administration
-Bash scripting and automation
-Networking fundamentals (DNS, TCP/IP, HTTP)
-Git and GitHub workflows
-Core DevOps practices (CI/CD, monitoring, infrastructure as code)
+- AWS 
+- Linux system administration
+- Bash scripting and automation
+- Networking (DNS, TCP/IP, HTTP)
+- Git and GitHub workflows
+- DevOps practices (monitoring, infrastructure as code)
 
 Current Focus:
 
