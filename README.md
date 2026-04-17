@@ -14,7 +14,7 @@ What I Work With:
 
 Current Focus:
 
-- Getting comfortable writing Bash scripts for automation (still improving structure, error handling, and best practices)
+- Writing Bash scripts for automation (still improving structure, error handling, and best practices)
 - Learning how backend services, APIs, and networking actually work together in real-world systems
 - Building hands-on cloud projects on AWS to understand deployment, Docker, and basic DevOps workflows
 
@@ -29,8 +29,6 @@ Automation and system administration scripts
 Linux and networking configurations
 DevOps projects and infrastructure experiments
 Mini-projects modeled after real-world production tasks
-
-Each project includes clear documentation covering its purpose, architecture, and implementation details.
 
 Connect:
 - GitHub: [@ayo-d09](https://github.com/ayo-d09)
