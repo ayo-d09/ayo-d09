@@ -4,7 +4,6 @@ I’m a DevOps / Cloud Engineer with hands-on experience building and managing r
 I specialize in designing, automating, and troubleshooting end-to-end infrastructure - from Linux systems and networking to deployment pipelines, like they work in production
 
 What I Work With:
-
 - AWS 
 - Linux system administration
 - Bash scripting and automation
@@ -13,7 +12,6 @@ What I Work With:
 - DevOps practices (monitoring, infrastructure as code)
 
 Current Focus:
-
 - Writing Bash scripts for automation (still improving structure, error handling, and best practices)
 - Learning how backend services, APIs, and networking actually work together in real-world systems
 - Building hands-on cloud projects on AWS to understand deployment, Docker, and basic DevOps workflows
