@@ -1,32 +1,34 @@
-Hi, I'm Ayomide
+Hello, I'm Ayomide 
 
 I’m a DevOps / Cloud Engineer with hands-on experience building and managing reliable systems in cloud environments.
-I specialize in designing, automating, and troubleshooting end-to-end infrastructure - from Linux systems and networking to deployment pipelines, like they work in production
+I design, automate, and troubleshoot infrastructure from Linux systems and networking to deployment pipelines, like they work in production
 
 What I Work With:
 - AWS 
-- Linux system administration
+- Linux 
 - Bash scripting and automation
-- Networking (DNS, TCP/IP, HTTP)
+- Networking
 - Git and GitHub workflows
-- DevOps practices (monitoring, infrastructure as code)
+- DevOps practices (monitoring, infrastructure as code...)
 
 Current Focus:
-- Writing Bash scripts for automation (still improving structure, error handling, and best practices)
-- Learning how backend services, APIs, and networking actually work together in real-world systems
-- Building hands-on cloud projects on AWS to understand deployment, Docker, and basic DevOps workflows
+- Building and deploying hands-on cloud and DevOps projects using AWS, Docker, Terraform, and containerized applications
+- Improving scripting and automation skills with Bash while learning cleaner structure, debugging, and production-style practices
+- Learning how real-world backend systems work together — APIs, networking, databases, CI/CD, monitoring, and infrastructure workflows
+- Strengthening practical DevOps and cloud engineering skills through project-based learning and troubleshooting
+- Developing a stronger understanding of Linux, Git, containers, and cloud infrastructure by working on end-to-end deployments
 
 Goals:
 - Secure an entry-level DevOps / Cloud Engineer role
 - Contribute to open-source projects
 - Deliver high-quality, production-ready infrastructure and automation
 
-
-My repositories contains:
-Automation and system administration scripts
-Linux and networking configurations
-DevOps projects and infrastructure experiments
-Mini-projects modeled after real-world production tasks
+My repositories contain:
+- Automation scripts and system administration tools built with Bash and Linux utilities
+- Linux, Docker, and networking configurations for hands-on infrastructure practice
+- Cloud and DevOps projects focused on AWS, containerization, CI/CD, and infrastructure deployment
+- Infrastructure experiments and mini-projects modeled after real-world production workflows and troubleshooting scenarios
+- Practical projects designed to strengthen skills in backend systems, cloud engineering, and DevOps practices
 
 Connect:
 - GitHub: [@ayo-d09](https://github.com/ayo-d09)
