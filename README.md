@@ -35,5 +35,4 @@ Connect:
 - Linkedin: https://www.linkedin.com/in/ayomide-obadina-441121402?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 - Email: aobadina6@gmail.com
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ayo-d09)
