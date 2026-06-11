@@ -32,7 +32,7 @@ My repositories contain:
 
 Connect:
 - GitHub: [@ayo-d09](https://github.com/ayo-d09)
-- Linkedin: https://www.linkedin.com/in/ayomide-obadina-441121402?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- Linkedin: https://www.linkedin.com/in/ayomide-obadina-35b09937b?trk=contact-info
 - Email: aobadina6@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayo-d09&show_icons=true&theme=tokyonight)
