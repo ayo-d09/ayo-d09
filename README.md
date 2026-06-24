@@ -1,6 +1,6 @@
 Hello, I'm Ayomide 
 
-I’m a DevOps / Cloud Engineer with hands-on experience building and managing reliable systems in cloud environments.
+I’m a Cloud/DevOps Engineer with hands-on experience building and managing reliable systems in cloud environments.
 I design, automate, and troubleshoot infrastructure from Linux systems and networking to deployment pipelines, like they work in production
 
 What I Work With:
@@ -38,4 +38,3 @@ Connect:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayo-d09&show_icons=true&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayo-d09)
-
