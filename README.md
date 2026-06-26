@@ -1,40 +1,38 @@
-Hello, I'm Ayomide 
+# Hi, I'm Ayomide 👋
 
-I’m a Cloud/DevOps Engineer with hands-on experience building and managing reliable systems in cloud environments.
-I design, automate, and troubleshoot infrastructure from Linux systems and networking to deployment pipelines, like they work in production
+Cloud & DevOps Engineer focused on building reliable, automated infrastructure — from Linux systems and networking to deployment pipelines modeled after real production environments.
 
-What I Work With:
-- AWS 
-- Linux 
-- Bash scripting and automation
-- Networking
-- Git and GitHub workflows
-- DevOps practices (monitoring, infrastructure as code...)
+##  Tech Stack
 
-Current Focus:
-- Building and deploying hands-on cloud and DevOps projects using AWS, Docker, Terraform, and containerized applications
-- Improving scripting and automation skills with Bash while learning cleaner structure, debugging, and production-style practices
-- Learning how real-world backend systems work together — APIs, networking, databases, CI/CD, monitoring, and infrastructure workflows
-- Strengthening practical DevOps and cloud engineering skills through project-based learning and troubleshooting
-- Developing a stronger understanding of Linux, Git, containers, and cloud infrastructure by working on end-to-end deployments
+**Cloud & IaC:** AWS · Terraform  
+**Containers:** Docker  
+**Scripting:** Bash · Linux  
+**DevOps:** CI/CD · Monitoring · Git/GitHub  
+**Networking:** TCP/IP · DNS · VPC fundamentals
 
-Goals:
-- Secure an entry-level DevOps / Cloud Engineer role
-- Contribute to open-source projects
-- Deliver high-quality, production-ready infrastructure and automation
+##  What I'm Building
 
-My repositories contain:
-- Automation scripts and system administration tools built with Bash and Linux utilities
-- Linux, Docker, and networking configurations for hands-on infrastructure practice
-- Cloud and DevOps projects focused on AWS, containerization, CI/CD, and infrastructure deployment
-- Infrastructure experiments and mini-projects modeled after real-world production workflows and troubleshooting scenarios
-- Practical projects designed to strengthen skills in backend systems, cloud engineering, and DevOps practices
+- AWS infrastructure projects using EC2, CloudWatch, Lambda, SNS, and Terraform
+- CI/CD pipelines and containerized application deployments
+- Automation scripts for system administration and cloud ops
+- End-to-end deployments covering APIs, networking, monitoring, and IaC
 
-Connect:
-- GitHub: [@ayo-d09](https://github.com/ayo-d09)
-- Linkedin: https://www.linkedin.com/in/ayomide-obadina-35b09937b?trk=contact-info
-- Email: aobadina6@gmail.com
+##  Goals
+
+- Land an entry-level Cloud / DevOps Engineer role (open to remote)
+- Contribute to open-source DevOps tooling
+- Ship production-quality infrastructure and automation
+
+##  Repos Cover
+
+Bash automation · Linux & Docker configs · AWS projects · CI/CD pipelines · IaC experiments
+
+##  Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayomide_Obadina-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayomide-obadina-35b09937b)
+[![Email](https://img.shields.io/badge/Email-aobadina6@gmail.com-D14836?style=flat&logo=gmail)](mailto:aobadina6@gmail.com)
+
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayo-d09&show_icons=true&theme=tokyonight)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ayo-d09)
