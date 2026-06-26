@@ -4,7 +4,8 @@ Cloud & DevOps Engineer focused on building reliable, automated infrastructure �
 
 ##  Tech Stack
 
-**Cloud & IaC:** AWS · Terraform  
+**Cloud:** AWS
+**IaC:** Terraform  
 **Containers:** Docker  
 **Scripting:** Bash · Linux  
 **DevOps:** CI/CD · Monitoring · Git/GitHub  
