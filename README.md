@@ -37,7 +37,7 @@ Bash automation · Linux & Docker configs · AWS projects · CI/CD pipelines · 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayomide_Obadina-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayomide-obadina-35b09937b)
 [![Email](https://img.shields.io/badge/Email-aobadina6@gmail.com-D14836?style=flat&logo=gmail)](mailto:aobadina6@gmail.com)
-
+[![X](https://img.shields.io/badge/X-Ayobuilds-000000?style=flat&logo=x&logoColor=white)](https://x.com/ayobuilds)
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayo-d09&show_icons=true&theme=tokyonight)
