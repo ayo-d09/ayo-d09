@@ -40,5 +40,4 @@ Bash automation · Linux & Docker configs · AWS projects · CI/CD pipelines · 
 [![X](https://img.shields.io/badge/X-Ayobuilds-000000?style=flat&logo=x&logoColor=white)](https://x.com/ayobuilds)
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayo-d09&show_icons=true&theme=tokyonight)
 ![Profile Views](https://komarev.com/ghpvc/?username=ayo-d09)
