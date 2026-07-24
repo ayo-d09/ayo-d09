@@ -8,13 +8,13 @@ Cloud & DevOps Engineer focused on building reliable, automated infrastructure â
 
 **IaC:** Terraform  
 
-**Containers and Orchestration:** Docker . Kubernetes
+**Containers and Orchestration:** Docker | Kubernetes
 
-**Scripting:** Bash . Linux  
+**Scripting:** Bash |Â Linux  
 
-**DevOps:** CI/CD . Monitoring . Git/GitHub 
+**DevOps:** CI/CD | Monitoring | Git/GitHub 
 
-**Networking:** TCP/IP . DNS . VPC fundamentals
+**Networking:** TCP/IP | DNS | VPC fundamentals
 
 ##  What I'm Building
 
@@ -25,7 +25,7 @@ Cloud & DevOps Engineer focused on building reliable, automated infrastructure â
 
 ##  Goals
 
-- Land an entry-level Cloud / DevOps Engineer role (open to remote)
+- Land a Cloud / DevOps Engineer role (open to remote)
 - Contribute to open-source DevOps tooling
 - Ship production-quality infrastructure and automation
 
