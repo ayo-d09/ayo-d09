@@ -39,5 +39,3 @@ Bash automation · Linux & Docker configs · AWS projects · CI/CD pipelines · 
 [![Email](https://img.shields.io/badge/Email-aobadina6@gmail.com-D14836?style=flat&logo=gmail)](mailto:aobadina6@gmail.com)
 [![X](https://img.shields.io/badge/X-Ayobuilds-000000?style=flat&logo=x&logoColor=white)](https://x.com/ayobuilds)
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=ayo-d09)
