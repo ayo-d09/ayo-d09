@@ -1,4 +1,3 @@
-
 # Hello, I'm Ayomide 👋
 
 Cloud & DevOps Engineer focused on building reliable, automated infrastructure — from Linux systems and networking to deployment pipelines modeled after real production environments.
