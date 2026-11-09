@@ -1,37 +1,43 @@
-# Hello, I'm Ayomide 👋
+# Hi, I'm Ayomide 👋
 
-Cloud & DevOps Engineer focused on building reliable, automated infrastructure — from Linux systems and networking to deployment pipelines modeled after real production environments.
+**Cloud & DevOps Engineer** building automated, observable AWS infrastructure.
+Microbiology graduate turned self-taught engineer, now shipping Terraform, containers, and CI/CD pipelines modeled on production environments.
 
-##  Tech Stack
+ Based in Nigeria (WAT, UTC+1) · Open to remote Cloud / DevOps roles
+- AWS Certified Cloud Practitioner
+-
+---
 
-**Cloud:** AWS
+##  Featured Projects
 
-**IaC:** Terraform  
+| Project | What it does | Stack |
+|---|---|---|
+| **[AWS Monitoring & Auto-Healing System](link-to-repo)** | Detects threshold breaches and automatically reboots unhealthy EC2 instances, with SNS alerts | CloudWatch · Lambda · SNS · EC2 · Terraform |
+| **[Cloud Portfolio Site](https://github.com/ayo-d09/cloud-portfolio)** | Static site on a fully Terraform-managed AWS stack, live at [ayomideobadina.com](https://ayomideobadina.com) | S3 · CloudFront · ACM · CloudWatch · Terraform |
+| **[Exrate Bot](https://github.com/ayo-d09/exrate-bot)** | Telegram currency converter with metrics dashboards and automated deploys | Flask · Docker · Prometheus · Grafana · GitHub Actions · Fly.io |
+| **[Finance Tracker](link-to-repo)** | Containerized Python API running on ECS Fargate | Python · Docker · ECS Fargate · Terraform |
 
-**Containers and Orchestration:** Docker | Kubernetes
+---
 
-**Scripting:** Bash | Linux  
+## Tech Stack
 
-**DevOps:** CI/CD | Monitoring | Git/GitHub 
+- **Cloud:** AWS (EC2, S3, CloudFront, Lambda, ECS Fargate, CloudWatch, SNS, DynamoDB)
+- **IaC:** Terraform
+- **Containers:** Docker
+- **CI/CD:** GitHub Actions
+- **Monitoring:** CloudWatch, Prometheus, Grafana
+- **Scripting & Systems:** Bash, Python, Linux
+- **Networking:** TCP/IP, DNS, VPC fundamentals
 
-**Networking:** TCP/IP | DNS | VPC fundamentals
+---
 
-##  What I'm Building
+## What I'm After
 
-- AWS infrastructure projects using EC2, CloudWatch, Lambda, SNS, and Terraform
-- CI/CD pipelines and containerized application deployments
-- Automation scripts for system administration and cloud ops
-- End-to-end deployments covering APIs, networking, monitoring, and IaC
+- A Cloud / DevOps Engineer role
+- Contributing to open-source DevOps tooling
+- Building infrastructure that's reliable, automated, and easy to debug
 
-##  Goals
-
-- Land a Cloud / DevOps Engineer role (open to remote)
-- Contribute to open-source DevOps tooling
-- Ship production-quality infrastructure and automation
-
-##  Repos Cover
-
-Bash automation · Linux & Docker configs · AWS projects · CI/CD pipelines · IaC experiments
+---
 
 ##  Connect
 
