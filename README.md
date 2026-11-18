@@ -1,4 +1,4 @@
-# Hi, I'm Ayomide 👋
+# Hi, I'm Ayomide
 
 **Cloud & DevOps Engineer** building automated, observable AWS infrastructure.
 Microbiology graduate turned self-taught engineer, now shipping Terraform, containers, and CI/CD pipelines modeled on production environments.
