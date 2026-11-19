@@ -3,9 +3,8 @@
 **Cloud & DevOps Engineer** building automated, observable AWS infrastructure.
 Microbiology graduate turned self-taught engineer, now shipping Terraform, containers, and CI/CD pipelines modeled on production environments.
 
- Based in Nigeria (WAT, UTC+1) · Open to remote Cloud / DevOps roles
+ Based in Nigeria (WAT, UTC+1) · Open to Cloud / DevOps roles
 - AWS Certified Cloud Practitioner
--
 ---
 
 ##  Featured Projects
