@@ -12,6 +12,7 @@ Microbiology graduate turned self-taught engineer, now shipping Terraform, conta
 | Project | What it does | Stack |
 |---|---|---|
 | **[AWS-Auto-Remediation-System](https://github.com/ayo-d09/aws-auto-remediation-system)** | Detects threshold breaches and automatically reboots unhealthy EC2 instances, with SNS alerts | CloudWatch · Lambda · SNS · EC2 · Terraform |
+| **[Cloud Resume Challenge](https://github.com/ayo-d09/cloud-resume-challenge)** | Portfolio site with a serverless visitor counter API that accurately tracks every visit and returns the count on each request	| S3 · CloudFront · ACM · API gateway · Lambda · DynamoDB · Terraform |
 | **[Cloud Portfolio Site](https://github.com/ayo-d09/cloud-portfolio)** | Static site on a fully Terraform-managed AWS stack, live at [ayomideobadina.com](https://ayomideobadina.com) | S3 · CloudFront · ACM · CloudWatch · Terraform |
 | **[Exrate Bot](https://github.com/ayo-d09/exrate-bot)** | Telegram currency converter with metrics dashboards and automated deploys | Flask · Docker · Prometheus · Grafana · GitHub Actions · Fly.io |
 | **[Finance Tracker](https://github.com/ayo-d09/finance-tracker)** | Containerized Python API running on ECS Fargate | Python · Docker · ECS Fargate · Terraform |
