@@ -24,7 +24,7 @@ Microbiology graduate turned self-taught engineer, now shipping Terraform, conta
 
 **Infrastructure as Code:** Terraform
 
-**Containers & Orchestration:** Docker, Amazon ECS, Kubernetes (fundamentals)
+**Containers & Orchestration:** Docker, Amazon ECS, Kubernetes
 
 **CI/CD & Automation:** GitHub Actions, Git, Bash scripting
 
