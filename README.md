@@ -34,7 +34,7 @@ Microbiology graduate turned self-taught engineer, now shipping Terraform, conta
 
 - A Cloud / DevOps Engineer role
 - Contributing to open-source DevOps tooling
-- Building infrastructure that's reliable, automated, and easy to debug
+- Building infrastructure that's secure, reliable, cost-optimised and easy to debug
 
 ---
 
