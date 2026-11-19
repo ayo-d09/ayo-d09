@@ -18,15 +18,23 @@ Microbiology graduate turned self-taught engineer, now shipping Terraform, conta
 
 ---
 
-## Tech Stack
+## Tech Stack & Technologies
 
-- **Cloud:** AWS (EC2, S3, CloudFront, Lambda, ECS Fargate, CloudWatch, SNS, DynamoDB)
-- **IaC:** Terraform
-- **Containers:** Docker
-- **CI/CD:** GitHub Actions
-- **Monitoring:** CloudWatch, Prometheus, Grafana
-- **Scripting & Systems:** Bash, Python, Linux
-- **Networking:** TCP/IP, DNS, VPC fundamentals
+**Cloud:** AWS (EC2, S3, CloudFront, IAM, VPC, Lambda, DynamoDB, ECS Fargate, ECR, RDS, CloudWatch, SNS)
+
+**Infrastructure as Code:** Terraform
+
+**Containers & Orchestration:** Docker, Amazon ECS, Kubernetes (fundamentals)
+
+**CI/CD & Automation:** GitHub Actions, Git, Bash scripting
+
+**Programming & Scripting:** Python, Bash
+
+**Monitoring & Observability:** AWS CloudWatch, Prometheus, Grafana
+
+**Operating Systems:** Linux
+
+**Networking:** TCP/IP, DNS, HTTP/HTTPS, VPC, Subnets, Routing, Security Groups
 
 ---
 
